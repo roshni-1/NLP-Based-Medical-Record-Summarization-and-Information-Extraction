@@ -1,0 +1,14 @@
+Patient: John Doe
+Age: 45
+Date: 2023-09-14
+Diagnosis: Hypertension and Type 2 Diabetes
+Medications: 
+- Lisinopril 10mg once daily
+- Metformin 500mg twice daily
+
+Patient: Jane Smith
+Age: 32
+Date: 2023-09-14
+Diagnosis: Migraine
+Medications: 
+- Sumatriptan 50mg as needed
