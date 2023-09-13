@@ -1,0 +1,6 @@
+gensim==4.0.1
+pip install tk #for UI
+pip install gensim spacy
+python -m spacy download en_core_web_sm
+
+ 
