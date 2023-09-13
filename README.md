@@ -1,6 +1,6 @@
 # Medical Record Summarization
 
-![Project Image](project_image.png) <!-- Replace with your project image if available -->
+![Project Image](49fac510-d11e-4ef0-9e9a-55c2e7ce33d7_variated.png) 
 
 This Python project provides a basic command-line tool for summarizing medical records using the Gensim library.
 
