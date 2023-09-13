@@ -1,0 +1,2 @@
+# NLP-Based-Medical-Record-Summarization-and-Information-Extraction
+Natural Language Processing (NLP) has immense potential in the healthcare industry, particularly in the analysis and extraction of valuable insights from medical records. This project aims to develop an NLP-based system for summarizing medical records and extracting key information to assist healthcare providers in making informed decisions.
