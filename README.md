@@ -12,7 +12,7 @@ This Python project provides a basic command-line tool for summarizing medical r
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
