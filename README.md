@@ -11,7 +11,6 @@ This Python project provides a basic command-line tool for summarizing medical r
 - [Demo](#demo)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
 
